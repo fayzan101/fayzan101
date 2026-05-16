@@ -154,6 +154,7 @@ src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=28&dura
 
 </tbody>
 </table>
+<br>
 ## 📊 GitHub Stats:
 
 <div align="center">
