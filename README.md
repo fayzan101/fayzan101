@@ -12,7 +12,7 @@ src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=28&dura
 ### 🌐 Frontend & Web
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,tailwind,bootstrap,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,liquid,ts,js,tailwind,bootstrap,html,css" />
 </p>
 
 ### ⚙️ Backend
@@ -40,7 +40,7 @@ src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=28&dura
 ### 🧑‍💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,cs,cpp,c,dart,php,go" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,asm,cpp,c,dart,php,go" />
 </p>
 
 
