@@ -30,12 +30,10 @@ src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=28&dura
 ### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,mysql,redis" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,mysql,redis,oracle" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-</p>
+
 
 ### 🧑‍💻 Languages
 
