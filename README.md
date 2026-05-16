@@ -118,9 +118,7 @@ src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=28&dura
 <img src="https://skillicons.dev/icons?i=postman" width="55" height="55"/><br>Postman
 </td>
 
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=swagger" width="55" height="55"/><br>Swagger
-</td>
+
 
 <td align="center" width="90">
 <img src="https://skillicons.dev/icons?i=vercel" width="55" height="55"/><br>Vercel
@@ -146,16 +144,12 @@ src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=28&dura
 <img src="https://skillicons.dev/icons?i=powershell" width="55" height="55"/><br>PowerShell
 </td>
 
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=vscode" width="55" height="55"/><br>VS Code
-</td>
 
 </tr>
 
 </tbody>
 </table>
-<br>
-## 📊 GitHub Stats:
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
   <p align="center">
