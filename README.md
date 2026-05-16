@@ -9,7 +9,6 @@ src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=28&dura
 
 
 
-<img align="right" alt="Coding" width="369" src="https://github.com/user-attachments/assets/9472fbe9-6441-4c30-8b0b-20096ee2050d">
 
 
 
