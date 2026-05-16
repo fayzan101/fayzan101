@@ -7,15 +7,10 @@ src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=28&dura
 </p>
 <h3 align="center">Full Stack Developer</h3>
 
-
-
-
-
-
 ## 💻 Tech Stack:
 
 <!-- Frameworks -->
-<h3 align="center">⚡ Frameworks & Backend</h3>
+<h3 align="center">⚡Frameworks</h3>
 
 <table align="center">
 <tbody>
