@@ -18,13 +18,13 @@ src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=28&dura
 ### ⚙️ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,django,fastapi,fiber,laravel" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,django,fastapi,go,laravel" />
 </p>
 
 ### 📱 Mobile Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,react native" />
+  <img src="https://skillicons.dev/icons?i=flutter,react,kotlin" />
 </p>
 
 ### 🗄️ Databases
