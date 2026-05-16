@@ -1,7 +1,7 @@
 
 <p align="center">
 <img
-  src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=1275ed&center=true&vCenter=true&width=700&lines=Hello!+I%27m+Sufyan;Exploring+Machine+Learning+and+AI;Building+intelligent+systems+from+data;Always+learning%2C+always+experimenting;"
+src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=1275ed&center=true&vCenter=true&width=700&lines=Hello!+I'm+Faizan+Basheer;Talent+Acquisitor;Exploring+Machine+Learning+and+AI;Building+intelligent+systems+from+data;Always+learning%2C+always+experimenting;"
   alt="Typing SVG"
 />
 </p>
