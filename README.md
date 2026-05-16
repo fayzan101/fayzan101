@@ -107,6 +107,10 @@ src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=28&dura
 </td>
 
 <td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=githubactions" width="55" height="55"/><br>GitHub Actions
+</td>
+
+<td align="center" width="90">
 <img src="https://skillicons.dev/icons?i=docker" width="55" height="55"/><br>Docker
 </td>
 
@@ -119,7 +123,27 @@ src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=28&dura
 </td>
 
 <td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=vercel" width="55" height="55"/><br>Vercel
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=ubuntu" width="55" height="55"/><br>Ubuntu
+</td>
+
+<td align="center" width="90">
 <img src="https://skillicons.dev/icons?i=kali" width="55" height="55"/><br>Kali Linux
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=bash" width="55" height="55"/><br>Bash
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=powershell" width="55" height="55"/><br>PowerShell
 </td>
 
 <td align="center" width="90">
@@ -127,6 +151,7 @@ src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=28&dura
 </td>
 
 </tr>
+
 </tbody>
 </table>
 ## 📊 GitHub Stats:
