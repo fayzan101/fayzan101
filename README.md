@@ -45,7 +45,7 @@ src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=28&dura
 
 
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="left">📊 GitHub Stats</h2>
 
 <div align="center">
   <p align="center">
