@@ -7,148 +7,44 @@ src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=28&dura
 </p>
 <h3 align="center">Full Stack Developer</h3>
 
-## 💻 Tech Stack:
+## 🛠️ Tech Stack
 
-<!-- Frameworks -->
-<h3 align="center">⚡Frameworks</h3>
+### 🌐 Frontend & Web
 
-<table align="center">
-<tbody>
-<tr>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,tailwind,bootstrap,html,css" />
+</p>
 
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55"/><br>Node.js
-</td>
+### ⚙️ Backend
 
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=nextjs" width="55" height="55"/><br>Next.js
-</td>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,django,fastapi,fiber,laravel" />
+</p>
 
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=django" width="55" height="55"/><br>Django
-</td>
+### 📱 Mobile Development
 
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=fastapi" width="55" height="55"/><br>FastAPI
-</td>
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,react native" />
+</p>
 
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=nestjs" width="55" height="55"/><br>NestJS
-</td>
+### 🗄️ Databases
 
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=laravel" width="55" height="55"/><br>Laravel
-</td>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,mysql,redis" />
+</p>
 
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=go" width="55" height="55"/><br>Fiber
-</td>
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</p>
 
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=flutter" width="55" height="55"/><br>Flutter
-</td>
+### 🧑‍💻 Languages
 
-</tr>
-</tbody>
-</table>
-
-<br>
-
-<!-- Databases -->
-<h3 align="center">🗄️ Databases</h3>
-
-<table align="center">
-<tbody>
-<tr>
-
-<td align="center" width="90">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="55" height="55"/><br>MySQL
-</td>
-
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=postgres" width="55" height="55"/><br>PostgreSQL
-</td>
-
-<td align="center" width="90">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="55" height="55"/><br>Oracle SQL
-</td>
-
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55"/><br>MongoDB
-</td>
-
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=redis" width="55" height="55"/><br>Redis
-</td>
-
-</tr>
-</tbody>
-</table>
-
-<br>
-
-<!-- Version Control & Tools -->
-<h3 align="center">🛠️ Version Control & Tools</h3>
-
-<table align="center">
-<tbody>
-<tr>
-
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=git" width="55" height="55"/><br>Git
-</td>
-
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=github" width="55" height="55"/><br>GitHub
-</td>
-
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=gitlab" width="55" height="55"/><br>GitLab
-</td>
-
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=githubactions" width="55" height="55"/><br>GitHub Actions
-</td>
-
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=docker" width="55" height="55"/><br>Docker
-</td>
-
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=postman" width="55" height="55"/><br>Postman
-</td>
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cs,cpp,c,dart,php,go" />
+</p>
 
 
 
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=vercel" width="55" height="55"/><br>Vercel
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=ubuntu" width="55" height="55"/><br>Ubuntu
-</td>
-
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=kali" width="55" height="55"/><br>Kali Linux
-</td>
-
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=bash" width="55" height="55"/><br>Bash
-</td>
-
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=powershell" width="55" height="55"/><br>PowerShell
-</td>
-
-
-</tr>
-
-</tbody>
-</table>
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
