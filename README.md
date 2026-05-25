@@ -38,7 +38,7 @@ src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=28&dura
 ### 🧑‍💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,c,dart,php,go" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,c,dart,php,go,rust" />
 </p>
 
 
