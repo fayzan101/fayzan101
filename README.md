@@ -62,6 +62,12 @@
   <img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,c,dart,php,go,rust" />
 </p>
 
+### ☁️ DevOps & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux,git,github,postman,nginx,jenkins" />
+</p>
+
 </td>
 </tr>
 </table>
