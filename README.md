@@ -11,7 +11,7 @@
 
 <!-- Animated role tagline -->
 <img
-  src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=1275ed&center=true&vCenter=true&width=700&lines=Project+Manager;Team+Lead;Talent+Acquisition+Specialist&background=0D111700"
+  src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=1275ed&center=true&vCenter=true&width=900&lines=Designing+Clean+and+Efficient+Software;Building+Scalable+Backend+Solutions;Always+Learning,+Always+Improving&background=0D111700
   alt="Typing SVG"
 />
 
