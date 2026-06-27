@@ -85,9 +85,7 @@
 
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fayzan101&theme=radical&layout=compact" height="170"/>
 <br/>
-<a href="https://rankistan.dev">
-  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Ffayzan101&style=for-the-badge" alt="Rankistan rank badge">
-</a>
+
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=fayzan101&theme=radical" height="170"/> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=fayzan101&theme=radical" height="170"/> -->
 
@@ -96,3 +94,6 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284136-039da41e-6738-4b07-8b7c-0f6f6d6c5e0c.gif" width="100" />
 </div>
+<a href="https://rankistan.dev">
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Ffayzan101&style=for-the-badge" alt="Rankistan rank badge">
+</a>
