@@ -44,7 +44,7 @@
 ### 📱 Mobile Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,react,expo" />
+  <img src="https://skillicons.dev/icons?i=flutter,react" />
 </p>
 
 </td>
