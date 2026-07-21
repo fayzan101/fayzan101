@@ -79,7 +79,7 @@
 <div align="center">
 
 <img
-  src="https://yourinsights.vercel.app/api/insight?username=fayzan101&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=true&summary=true&profile=true"
+  src="https://yourinsights.vercel.app/api/insight?username=fayzan101&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=true&summary=true&profile=true&hide_langs=C++"
   alt="GitHub Insights"
 />
 
