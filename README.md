@@ -2,7 +2,7 @@
 
 <!-- Elegant gradient header banner -->
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:1275ed,50:1e3a5f,100:0d1117&height=240&section=header&text=Faizan%20Basheer&fontSize=48&fontAlignY=36&fontColor=ffffff&desc=Full%20Stack%20Engineer&descSize=20&descAlignY=58&descAlign=50&descColor=e2e8f0&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:1275ed,50:1e3a5f,100:0d1117&height=240&section=header&text=Faizan%20Basheer&fontSize=48&fontAlignY=36&fontColor=ffffff&desc=Software%20%20Engineer&descSize=20&descAlignY=58&descAlign=50&descColor=e2e8f0&animation=fadeIn"
   width="100%"
   alt="Faizan Basheer — Software Engineer"
 />
